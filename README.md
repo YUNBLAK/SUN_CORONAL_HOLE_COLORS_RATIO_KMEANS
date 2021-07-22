@@ -9,3 +9,5 @@ The color of the solar image is classified using the KNN algorithm, and the rati
 The reason why white has a high percentage of results is because we removed the background and corona region from the sun's image and made the background white. These color-ratio data can be used to predict the future state of the sun and can help predict time series through numerical data. We also classify 10 color data because the current value of K is 10. If you change the value of K, you can get more colorful values.
 
 ![KNNSUN](https://user-images.githubusercontent.com/87653966/126295388-d8c3df20-f8e2-4467-b823-902b127d07ee.jpg)
+
+![k20](https://user-images.githubusercontent.com/87653966/126614645-da184a62-95fa-400e-9b04-70ef8ea371aa.jpg)
