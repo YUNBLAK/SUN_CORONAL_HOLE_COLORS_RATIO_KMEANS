@@ -2,6 +2,8 @@
 ## By YUNBLAK
 ### Calculating the ratio of colors in the sun using KNN
 
+[**IMAGES ARE FROM NASA**]
+
 The color of the solar image is classified using the KNN algorithm, and the ratio of colors is calculated. The sun changes color due to changes in the sun's temperature or coronal hole. We aim to visually identify these color changes and derive them numerically using KNN classification algorithms.
 
 ![001](https://user-images.githubusercontent.com/87653966/126294363-1d55d248-f41b-48d4-a206-65a63a34fc08.jpg)
