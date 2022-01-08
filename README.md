@@ -1,6 +1,6 @@
-# Sun-Colors-Ratio-KNN
+# SUN_CORONAL_HOLE_COLORS_RATIO_KMEANS
 ## By YUNBLAK
-### Calculating the ratio of colors in the sun using KNN
+### Calculating the ratio of colors in the sun using KMEANS
 
 [**IMAGES ARE FROM NASA**]
 
